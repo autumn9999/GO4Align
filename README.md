@@ -1,7 +1,5 @@
 # GO4Align
 
----
-
 Welcome to the official repository for "GO4Align: Group Optimization for Multi-Task Alignment," one effective and efficient approach to multi-task optimization. 
 
 **Project Webpage:** Details will be available soon.
