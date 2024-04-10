@@ -14,7 +14,10 @@ To achieve this, we design an adaptive group risk minimization strategy, comprom
 Comprehensive experimental results on diverse typical benchmarks demonstrate our method's performance superiority with even lower computational costs.
 
 ## Paper
-The preprint of our paper will soon be available on arXiv. Stay tuned for the link.
+[The preprint of our paper](https://arxiv.org/abs/2404.06486) are available on arXiv. 
+
+
+
 
 ## Code
 We are currently preparing our codebase for public release. Keep an eye on this repository for updates and additional resources, including detailed documentation and implementation guides.
