@@ -24,8 +24,9 @@ Comprehensive experimental results on diverse typical benchmarks demonstrate our
 
 
 <p align="center"> 
-    <img src="https://github.com/autumn9999/GO4Align/blob/main/GO4Align.pdf" width="800">
+    <img src="https://github.com/autumn9999/GO4Align/blob/main/GO4Align.png" width="800">
 </p>
+
 
 ---
 
