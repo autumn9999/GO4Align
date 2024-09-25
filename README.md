@@ -20,10 +20,10 @@ Comprehensive experimental results on diverse typical benchmarks demonstrate our
 
 [The preprint of our paper](https://arxiv.org/abs/2404.06486) is available on arXiv. 
 
-### Framework of Adaptive Group Risk Minimization 
+### Framework of Adaptive Group Risk Minimization
 
 <p align="center"> 
-    <img src="GO4Align.pdf" width="800">
+    <img src="GO4Align.png" width="800">
 </p>
 
 ---
