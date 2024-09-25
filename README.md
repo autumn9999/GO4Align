@@ -68,21 +68,21 @@ python trainer.py --method go4align
 
 We also support the following MTL methods as alternatives.
 
-|    Method (code name)     |                                                          Paper (notes)                                                       |
-|:-------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
-|          Gradient-oriented methods            |                ------------------------------------------------------------------------------------------                    |
-|           MGDA            |                     [Multi-Task Learning as Multi-Objective Optimization](https://arxiv.org/pdf/1810.04650)                  |
-|          PCGrad           |                           [Gradient Surgery for Multi-Task Learning](https://arxiv.org/pdf/2001.06782)                       |
-|          CAGrad           |                 [Conflict-Averse Gradient Descent for Multi-task Learning](https://arxiv.org/pdf/2110.14048.pdf)             |
-|          IMTL-G           |                       [Towards Impartial Multi-task Learning](https://openreview.net/forum?id=IMPnRXEWpvr)                   |
-|          NashMTL          |                        [Multi-Task Learning as a Bargaining Game](https://arxiv.org/pdf/2202.01017v1.pdf)                    |
-|          Loss-oriented methods            |                    ------------------------------------------------------------------------------------------                |
-|            LS             |                                                       - (equal weighting)                                                    |
-|            SI             |                                                - (see Nash-MTL paper for details)                                            |
-|            RLW            |                  [A Closer Look at Loss Weighting in Multi-Task Learning](https://arxiv.org/pdf/2111.10603.pdf)              |
-|            DWA            |                        [End-to-End Multi-Task Learning with Attention](https://arxiv.org/pdf/1803.10704)                     |
+|    Method (code name)     |                                                          Paper (notes)                                                          |
+|:-------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
+|          Gradient-oriented methods            |                          ---------------------------------------------------------------------------------                           |
+|           MGDA            |                     [Multi-Task Learning as Multi-Objective Optimization](https://arxiv.org/pdf/1810.04650)                     |
+|          PCGrad           |                           [Gradient Surgery for Multi-Task Learning](https://arxiv.org/pdf/2001.06782)                          |
+|          CAGrad           |                 [Conflict-Averse Gradient Descent for Multi-task Learning](https://arxiv.org/pdf/2110.14048.pdf)                |
+|          IMTL-G           |                       [Towards Impartial Multi-task Learning](https://openreview.net/forum?id=IMPnRXEWpvr)                      |
+|          NashMTL          |                        [Multi-Task Learning as a Bargaining Game](https://arxiv.org/pdf/2202.01017v1.pdf)                       |
+|          Loss-oriented methods            |                    ---------------------------------------------------------------------------------                   |
+|            LS             |                                                       - (equal weighting)                                                       |
+|            SI             |                                                - (see Nash-MTL paper for details)                                               |
+|            RLW            |                  [A Closer Look at Loss Weighting in Multi-Task Learning](https://arxiv.org/pdf/2111.10603.pdf)                 |
+|            DWA            |                        [End-to-End Multi-Task Learning with Attention](https://arxiv.org/pdf/1803.10704)                        |
 |            UW             | [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115v3.pdf) |
-|           FAMO            |                          [FAMO: Fast Adaptive Multitask Optimization](https://arxiv.org/pdf/2306.03792)                      |
+|           FAMO            |                          [FAMO: Fast Adaptive Multitask Optimization](https://arxiv.org/pdf/2306.03792)                         |
 
 
 
